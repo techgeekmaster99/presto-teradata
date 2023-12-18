@@ -1,0 +1,3 @@
+com/facebook/presto/plugin/teradata/TeradataPlugin.class
+com/facebook/presto/plugin/teradata/TeradataClient.class
+com/facebook/presto/plugin/teradata/TeradataClientModule.class

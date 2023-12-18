@@ -1,0 +1,3 @@
+/home/anand/presto-0.283/presto-teradata/src/main/java/com/facebook/presto/plugin/teradata/TeradataClientModule.java
+/home/anand/presto-0.283/presto-teradata/src/main/java/com/facebook/presto/plugin/teradata/TeradataClient.java
+/home/anand/presto-0.283/presto-teradata/src/main/java/com/facebook/presto/plugin/teradata/TeradataPlugin.java

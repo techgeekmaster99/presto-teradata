@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.16">
+<file name="/home/anand/presto-0.283/presto-teradata/src/main/java/com/facebook/presto/plugin/teradata/TeradataClientModule.java">
+</file>
+<file name="/home/anand/presto-0.283/presto-teradata/src/main/java/com/facebook/presto/plugin/teradata/TeradataClient.java">
+</file>
+<file name="/home/anand/presto-0.283/presto-teradata/src/main/java/com/facebook/presto/plugin/teradata/TeradataPlugin.java">
+</file>
+</checkstyle>
